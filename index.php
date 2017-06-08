@@ -2,4 +2,5 @@
 
 phpinfo();
 
-echo 'hello world'
+echo 'hello world';
+echo '你好啊!';
