@@ -2,4 +2,4 @@
 
 phpinfo();
 
-echo 'a';
+echo 'hello world'
